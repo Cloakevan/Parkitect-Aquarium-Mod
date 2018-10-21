@@ -1,2 +1,2 @@
 # Parkitect-Aquarium-Mod
-Repository for the 'Aquarium Mod' custom asset mod for Parkitect.
+Repository for the 'Aquarium Mod', a custom asset pack for Parkitect.
